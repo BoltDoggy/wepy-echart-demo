@@ -1,4 +1,7 @@
 <style>
+.ec-canvas {
+  height: 500px;
+}
 </style>
 <template>
   <canvas class="ec-canvas" canvas-id="eChart" ></canvas>
